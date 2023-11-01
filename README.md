@@ -14,7 +14,7 @@
 
 3. Run AutoGPT
 
-     `docker compose run --rm auto-gpt`
+     `docker compose run --rm auto-gpt --skip-news`
 
 Important: Docker Compose version 1.29.0 or later is required
 
